@@ -47,26 +47,33 @@ Follow the instructions from Github
 
 ## DEPLOYING
 1. Create a new web service
+   
    ![image](https://github.com/mclaramarinho/flask-render-deploy/assets/119897667/37785e19-e8fc-40a8-a4cf-886b4bb2d4f7)
 
 2. Deploy from github
+   
    ![image](https://github.com/mclaramarinho/flask-render-deploy/assets/119897667/7db753ec-c84a-469d-887b-066d4fadf5a1)
 
 3. Choose a repo
+
    ![image](https://github.com/mclaramarinho/flask-render-deploy/assets/119897667/e775fce3-e11a-41b2-bd14-83c1e3364be5)
    
 4. Add a name to this deploy
+
    ![image](https://github.com/mclaramarinho/flask-render-deploy/assets/119897667/83a94c1b-172d-47bf-813b-73ee10258911)
 
 5. Choose a directory to deploy
+
    ![image](https://github.com/mclaramarinho/flask-render-deploy/assets/119897667/c2986314-32c8-4a65-9dc6-541a9cd3de2d)
+
    If blank, it will deploy the root dir.
    
-7. Leave these fields just like this
+6. Leave these fields just like this
+  
    ![image](https://github.com/mclaramarinho/flask-render-deploy/assets/119897667/6823acf4-7b95-48eb-9569-b924f6cf4052)
 
-8. Hit the Create button
+7. Hit the Create button
 
-9. Wait for the build and deploy
+8. Wait for the build and deploy
 
    
